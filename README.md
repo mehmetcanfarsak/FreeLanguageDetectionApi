@@ -1,6 +1,7 @@
 # Free Language Detection 💬 Api
 - - -
 Simple api for detecting language of a text. Texts with more than 3 words got more accurate results.
+
 🔍 Check it on [https://FreeLanguageDetectionApi.deta.dev](https://FreeLanguageDetectionApi.deta.dev "https://FreeLanguageDetectionApi.deta.dev")  **without any limits 😈**
 
 ⏩ Example Usage:  [https://FreeLanguageDetectionApi.deta.dev/detect\_language?text\_to\_detect\_language=wie%20gehts%20dir](https://FreeLanguageDetectionApi.deta.dev/detect\_language?text\_to\_detect\_language=wie%20gehts%20dir "https://FreeLanguageDetectionApi.deta.dev/detect\_language?text\_to\_detect\_language=wie%20gehts%20dir")
