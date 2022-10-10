@@ -16,4 +16,4 @@ ReDoc: [https://FreeLangugageDetectionApi.deta.dev/redoc](https://FreeLangugageD
 
 ### 💻 Github Page: 
 
-[https://github.com/mehmetcanfarsak/FreeLangugageDetectionApi](https://github.com/mehmetcanfarsak/FreeLangugageDetectionApi "https://github.com/mehmetcanfarsak/FreeLangugageDetectionApi")
+[https://github.com/mehmetcanfarsak/FreeLanguageDetectionApi](https://github.com/mehmetcanfarsak/FreeLangugageDetectionApi "https://github.com/mehmetcanfarsak/FreeLanguageDetectionApi")
