@@ -9,7 +9,9 @@
   "builds": [
     {
       "src": "main.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": { "runtime": "python3.10" }
+
     }
   ]
 }
