@@ -12,5 +12,8 @@
       "use": "@vercel/python",
       "config": { "maxLambdaSize": "15mb", "runtime": "python3.10" }
     }
-  ]
+  ],
+  "engines": {
+    "node": "18.x"
+  }
 }
